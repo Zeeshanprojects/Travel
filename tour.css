@@ -1,0 +1,110 @@
+.navbar {
+    background-color: darkblue;
+    height: 70px;
+    width: 100%;
+}
+
+.nav-link:hover {
+    background-color: lightblue;
+}
+
+.box1 {
+    height: 550px;
+    width: 100%;
+    background-image: url('file:///C:/Users/IC/Desktop/internship/images/Tours.jpg');
+    background-position: center;
+    background-size: cover;
+}
+
+.h1 {
+    color: white;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+}
+
+.text {
+    text-align: center;
+    color: black;
+}
+
+.box2 {
+    height: 150px;
+    width: 80%;
+    margin-top: 20px;
+}
+
+.box2:hover {
+    transform: scale(1.1);
+    z-index: 2;
+}
+
+.box3 {
+    height: 150px;
+    width: 100%;
+    margin-top: 20px;
+}
+
+.box3:hover {
+    transform: scale(1.1);
+    z-index: 2;
+}
+
+.box4 {
+    height: 150px;
+    width: 100%;
+    margin-top: 20px;
+}
+
+.box4:hover {
+    transform: scale(1.1);
+    z-index: 2;
+}
+
+.box5 {
+    height: 150px;
+    margin-top: 20px;
+    width: 100%;
+}
+
+.box5:hover {
+    transform: scale(1.1);
+    z-index: 2;
+}
+
+.box6 {
+    height: 290px;
+    width: 100%;
+}
+
+.box7 {
+    height: 290px;
+    width: 100%;
+}
+
+.box8 {
+    height: 290px;
+    width: 100%;
+}
+
+.curved-button {
+    background-color: blue;
+    margin-top: 20px;
+    text-align: center;
+    margin-left: 100px;
+    color: white;
+    padding: 15px 30px;
+    border: none;
+    border-radius: 25px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+img:hover {
+    transform: scale(1.1);
+    z-index: 2;
+}
+
+.curved-button:hover {
+    background-color: darkblue;
+}
